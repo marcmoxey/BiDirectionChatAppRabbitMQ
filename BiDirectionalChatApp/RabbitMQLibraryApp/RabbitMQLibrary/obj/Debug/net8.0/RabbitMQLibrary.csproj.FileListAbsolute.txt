@@ -1,0 +1,13 @@
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\bin\Debug\net8.0\RabbitMQLibrary.deps.json
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\bin\Debug\net8.0\RabbitMQLibrary.dll
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\bin\Debug\net8.0\RabbitMQLibrary.pdb
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.sourcelink.json
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.dll
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\refint\RabbitMQLibrary.dll
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\RabbitMQLibrary.pdb
+C:\Users\moxey\source\repos\DemoProjects\RabbitMQLibraryApp\RabbitMQLibrary\obj\Debug\net8.0\ref\RabbitMQLibrary.dll
